@@ -66,3 +66,5 @@ Disclaimer
 
 The original implementation belongs to the authors of the AdaptiveDiffusion repository.
 My contribution in this repository is limited to the modifications described above.
+
+test
