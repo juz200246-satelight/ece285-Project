@@ -17,23 +17,7 @@ Files Modified
 
 For the purpose of this course project, I modified specific files in the original repository.
 
-1. generate.py
-
-Location:
-
-AdaptiveDiffusion/examples/AdaptiveDiffusion/generate.py
-
-Modifications include:
-
-Adjusting the generation script for my experiment workflow
-
-Modifying prompt input handling
-
-Supporting dataset-based prompt loading (e.g., COCO prompts)
-
-Enabling batch generation for evaluation experiments
-
-2. sparse_pipeline.py
+1. sparse_pipeline.py / cas_sparse_pipeline.py
 
 Location:
 
