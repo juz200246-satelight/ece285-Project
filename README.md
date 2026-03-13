@@ -1,4 +1,3 @@
-hahahahahahahah
 CAS Diffusion Acceleration (Course Project)
 
 This repository contains my implementation and experiments for a course project focused on accelerating diffusion model inference. The project is based on an existing open-source repository, with modifications made for experimentation and evaluation.
